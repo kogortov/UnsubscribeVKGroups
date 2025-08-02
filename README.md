@@ -1,4 +1,4 @@
-# 🧹 UnsubscribeVKGroups  
+# UnsubscribeVKGroups  
 
 ![Скриншот](sreenshot.png)
 
