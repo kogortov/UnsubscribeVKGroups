@@ -12,6 +12,8 @@ namespace UnsubscribeVKGroups
 
         static async Task Main(string[] args)
         {
+            Console.Title = "Unsubscribe VK Groups";
+
             Console.ForegroundColor = ConsoleColor.Blue;
 
             Console.WriteLine(@"
