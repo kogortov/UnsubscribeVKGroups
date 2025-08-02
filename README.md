@@ -16,7 +16,7 @@
 
 Для работы утилиты требуется создать собственное приложение ВКонтакте:
 
-1. Перейдите по ссылке: [https://vk.com/apps?act=manage](https://vk.com/apps?act=manage)
+1. Перейдите по ссылке: [https://id.vk.com/about/business/go/create-account](https://id.vk.com/about/business/go/create-account)
 2. Нажмите **«Создать приложение»**
 3. Выберите тип **Standalone-приложение**
 4. Скопируйте **ID приложения (client_id)**
